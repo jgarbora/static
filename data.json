@@ -1,4 +1,18 @@
 {
-   "USD":40,
-   "UY$":25
+   "DOLAR": {
+      "compra" : 36.40,
+      "venta": 38.40
+   },
+   "PESO ARG": {
+      "compra" : 0.40,
+      "venta": 1.00
+   },
+   "REAL": {
+      "compra" : 8.60,
+      "venta": 9.80
+   },
+    "EURO": {
+      "compra" : 39.60,
+      "venta": 44.80
+   }
 }
